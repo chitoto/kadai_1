@@ -45,6 +45,7 @@ ul.top_menu {
   float: left;
   margin: 0;
 }
+/* /global Nav */
 .image_area{
   width: 100%;
 }
@@ -72,27 +73,14 @@ ul.top_menu {
   padding: 2rem;
 }
 
-.content{
-  width: 690px;
-  margin-left:20px;
-  float: left;
-  font-size: 1.5rem;
-  border: 1px solid red;
-}
-.news{
-  height: 200px;
-  background-color: #FCE8E7;
-  padding: 20px;
-  overflow: scroll;
-  line-height: 2;
-}
-
 .side_menu .point{
   background-color: #FCECEC;
 }
 .side_menu .point a{
   color: #4D4D4D;
 }
+/* /aside nav */
+
 .footer{
   width: 100%;
   height: 100px;

@@ -1,28 +1,33 @@
+.content{
+  width: 660px;
+  float: left;
+  font-size: 1.5rem;
+}
 .contact{
-  table-layout:fixed;
-  border-collapse:collapse;
-  border: 1px solid red;
+  border-collapse: collapse;
 }
 .contact tr{
   height: 7rem;
-  border: 1px solid red;
 }
 .contact th{
   width: 150px;
   text-align: right;
-  border: 1px solid red;
 }
 .contact td{
-  width: 480px;
   padding-left: 1rem;
-  border: 1px solid red;
 }
-.textbox{
-  width:100px;
-
+.textbox {
+  width: 480px;
 }
 
-#bottom{
-  background-color: #green;
-
+.btn {
+  font-size: 3rem;
+  width: 100px;
+  height: 50px;
+  color: white;
+  background-color: green;
+  margin-left: 150px;
+}
+.btn:hover{
+  opacity: 0.5;
 }
